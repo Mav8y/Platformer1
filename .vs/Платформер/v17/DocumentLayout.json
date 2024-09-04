@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\died.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\died.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\herolives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\herolives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\locationtransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationtransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\trig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\scripts\\worm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\worm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|c:\\users\\matve\\\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C38AC6-B174-99D1-B458-8C2C5AEBDC6B}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Died.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Died.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Died.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Died.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Died.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:37:35.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:37:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroLives.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\HeroLives.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeroLives.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\HeroLives.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeroLives.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:37:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationTransition.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\LocationTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationTransition.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\LocationTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationTransition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:37:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:37:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:36:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trig.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Trig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trig.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Trig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:36:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Worm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Worm.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Worm.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Worm.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Worm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:36:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:36:30.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:35:24.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Hero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hero.cs",
+              "ToolTip": "C:\\Users\\matve\\\u041F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u0435\u0440\\Assets\\Scripts\\Hero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T08:38:27.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
